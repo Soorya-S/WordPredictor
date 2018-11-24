@@ -4,7 +4,7 @@
 
 Method 1:
 
-Simply open the WordPredictor.jar file under /dist folder.
+Simply open the WordPredictor.jar file under "/dist" folder.
 
 Method 2:
 
